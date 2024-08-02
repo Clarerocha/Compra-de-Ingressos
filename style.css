@@ -66,7 +66,7 @@ form .input-group {
 
 form .input-group select,
 form .input-group input {
-    /*background: none;*/
+    background: none;
     color: white;
     border: 1px solid #00F4BF;
     border-radius: .5rem;
@@ -77,7 +77,7 @@ form .input-group input {
 
 form .input-group select {
     width: 24.75rem;
-    /*appearance: none;*/
+    appearance: none;
     background: url('../assets/PNG/Arrow\ down.png') no-repeat right 1rem top 50%;
     color: black;
     background-color: white;
